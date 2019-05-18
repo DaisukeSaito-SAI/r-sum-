@@ -7,6 +7,7 @@ address
 東京都 新宿区
 
 
+
 ## スキル
 
 ・HTML
@@ -15,6 +16,7 @@ address
 ・jQuery
 ・PHP
 ・Wordpress
+
 
 
 ## 経験
@@ -26,6 +28,7 @@ address
 
 参考
 http://www.thali-ya.com/
+
 
 
 ## 志望
