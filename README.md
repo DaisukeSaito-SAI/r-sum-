@@ -11,10 +11,15 @@ address
 ## スキル
 
 ・HTML
+
 ・CSS
+
 ・Photoshop
+
 ・jQuery
+
 ・PHP
+
 ・Wordpress
 
 
