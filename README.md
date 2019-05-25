@@ -40,7 +40,7 @@ http://www.thali-ya.com/
 ## 志望
 
 約3年の実務経験があるHTML&CSSを使用する業務への就業を希望しています。
-また、それらに付随するjQueryやPHPなども業務で利用していました。
+また、それらに付随するPhotoshop、jQuery、PHP、WordPressを業務にて使用していました。
 
 
 現在はProgateや書籍にてレスポンシブ対応など最新技術の再学習を行っています。
